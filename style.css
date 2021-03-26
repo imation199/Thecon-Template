@@ -1,0 +1,32 @@
+.container img {
+  width: 100%;
+  height: auto;
+}
+.right{
+  position:absolute;
+  left:70%;
+
+}
+
+img {
+  height: 100% !important;
+  width: 100%;
+}
+
+.spotlight{
+  background-color: gray;
+  width: max-content;
+}
+.IMB{
+  margin: auto;
+  width: 30%;;
+  padding: 10px;
+}
+bigimg{
+  width: 200%;
+  height: 200%;
+}
+
+.row {
+  margin-bottom: 10px;
+}
